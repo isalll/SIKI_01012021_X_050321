@@ -1,0 +1,213 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.siki.android"
+4    android:versionCode="2"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:7:5-67
+11-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:8:5-79
+12-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:8:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:9:5-81
+13-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:9:22-78
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:10:5-75
+14-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:10:22-72
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:11:5-80
+15-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:11:22-77
+16
+17    <application
+17-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:13:5-103:19
+18        android:allowBackup="true"
+18-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:14:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\4fa96a30a609219e9d73eea686ac383a\core-1.0.0\AndroidManifest.xml:22:18-86
+20        android:icon="@drawable/ic_launcherx"
+20-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:15:9-46
+21        android:label="@string/app_name"
+21-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:16:9-41
+22        android:theme="@android:style/Theme.NoTitleBar" >
+22-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:17:9-56
+23        <activity
+23-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:18:9-30:20
+24            android:name="com.siki.android.MainActivity"
+24-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:19:13-41
+25            android:label="@string/app_name"
+25-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:20:13-45
+26            android:screenOrientation="portrait" >
+26-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:21:13-49
+27
+28            <!--
+29            <intent-filter>
+30                <action android:name="android.intent.action.MAIN" />
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+33            </intent-filter>
+34            -->
+35        </activity>
+36        <activity
+36-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:31:9-39:20
+37            android:name="com.siki.android.LoginActivity"
+37-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:32:13-42
+38            android:label="@string/app_name" >
+38-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:33:13-45
+39            <intent-filter>
+39-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:34:13-38:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:35:17-69
+40-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:35:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:37:17-77
+42-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:37:27-74
+43            </intent-filter>
+44        </activity>
+45
+46        <!-- Register Activity -->
+47        <activity
+47-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:42:9-45:52
+48            android:name="com.siki.android.RegistrasiActivity"
+48-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:43:13-47
+49            android:label="@string/app_name"
+49-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:44:13-45
+50            android:screenOrientation="portrait" />
+50-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:45:13-49
+51        <!--
+52 ATTENTION: This was auto-generated to add Google Play services to your project for
+53     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+54        -->
+55        <meta-data
+55-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:50:9-52:69
+56            android:name="com.google.android.gms.version"
+56-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:51:13-58
+57            android:value="@integer/google_play_services_version" />
+57-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:52:13-66
+58
+59        <activity
+59-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:54:9-56:67
+60            android:name="com.siki.android.ListCommentActivity"
+60-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:55:13-48
+61            android:label="@string/title_activity_list_comment" />
+61-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:56:13-64
+62        <activity
+62-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:57:9-59:58
+63            android:name="com.siki.android.ListCommentKlipingActivity"
+63-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:58:13-55
+64            android:label="ListCommentKlipingActivity" />
+64-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:59:13-55
+65        <activity
+65-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:60:9-63:72
+66            android:name="com.siki.android.PdHsActivity"
+66-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:61:13-41
+67            android:label="@string/title_activity_pda"
+67-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:62:13-55
+68            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+68-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:63:13-69
+69        <activity
+69-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:64:9-66:72
+70            android:name="com.siki.android.PdActivity"
+70-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:65:13-39
+71            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+71-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:66:13-69
+72        <activity
+72-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:67:9-69:72
+73            android:name="com.siki.android.PdChartActivity"
+73-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:68:13-44
+74            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+74-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:69:13-69
+75        <activity
+75-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:70:9-71:81
+76            android:name="com.siki.android.PdHsDetailActivity"
+76-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:70:19-53
+77            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+77-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:71:13-69
+78        <activity
+78-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:73:9-76:72
+79            android:name="com.siki.android.EWSHsActivity"
+79-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:74:13-42
+80            android:label="@string/title_activity_pda"
+80-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:75:13-55
+81            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+81-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:76:13-69
+82        <activity
+82-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:77:9-79:72
+83            android:name="com.siki.android.EWSActivity"
+83-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:78:13-40
+84            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+84-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:79:13-69
+85        <activity
+85-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:80:9-82:72
+86            android:name="com.siki.android.RCAActivity"
+86-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:81:13-40
+87            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+87-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:82:13-69
+88        <activity
+88-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:83:9-85:72
+89            android:name="com.siki.android.RCAHsActivity"
+89-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:84:13-42
+90            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+90-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:85:13-69
+91        <activity
+91-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:86:9-88:72
+92            android:name="com.siki.android.RCAHsDetailActivity"
+92-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:87:13-48
+93            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+93-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:88:13-69
+94        <activity
+94-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:90:9-92:72
+95            android:name="com.siki.android.EWSChartActivity"
+95-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:91:13-45
+96            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+96-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:92:13-69
+97        <activity
+97-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:93:9-94:81
+98            android:name="com.siki.android.EWSHsDetailActivity"
+98-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:93:19-54
+99            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+99-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:94:13-69
+100        <activity
+100-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:95:9-96:81
+101            android:name="com.siki.android.HSLinkDetailActivity"
+101-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:95:19-55
+102            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+102-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:96:13-69
+103
+104        <uses-library
+104-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:98:9-87
+105            android:name="org.apache.http.legacy"
+105-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:98:23-60
+106            android:required="false" />
+106-->C:\Users\USER\Documents\SIKI_01012021_X\app\src\main\AndroidManifest.xml:98:61-85
+107
+108        <activity
+108-->[com.google.android.gms:play-services-base:10.2.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1ca15ff603aed2857350721a2a3165d6\jetified-play-services-base-10.2.1\AndroidManifest.xml:19:9-172
+109            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+109-->[com.google.android.gms:play-services-base:10.2.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1ca15ff603aed2857350721a2a3165d6\jetified-play-services-base-10.2.1\AndroidManifest.xml:19:19-85
+110            android:exported="false"
+110-->[com.google.android.gms:play-services-base:10.2.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1ca15ff603aed2857350721a2a3165d6\jetified-play-services-base-10.2.1\AndroidManifest.xml:19:146-170
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+111-->[com.google.android.gms:play-services-base:10.2.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1ca15ff603aed2857350721a2a3165d6\jetified-play-services-base-10.2.1\AndroidManifest.xml:19:86-145
+112
+113        <provider
+113-->[com.google.firebase:firebase-common:10.2.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\afcb3160bd45626da77f050a42debc58\jetified-firebase-common-10.2.1\AndroidManifest.xml:6:9-194
+114            android:name="com.google.firebase.provider.FirebaseInitProvider"
+114-->[com.google.firebase:firebase-common:10.2.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\afcb3160bd45626da77f050a42debc58\jetified-firebase-common-10.2.1\AndroidManifest.xml:6:79-143
+115            android:authorities="com.siki.android.firebaseinitprovider"
+115-->[com.google.firebase:firebase-common:10.2.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\afcb3160bd45626da77f050a42debc58\jetified-firebase-common-10.2.1\AndroidManifest.xml:6:19-78
+116            android:exported="false"
+116-->[com.google.firebase:firebase-common:10.2.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\afcb3160bd45626da77f050a42debc58\jetified-firebase-common-10.2.1\AndroidManifest.xml:6:144-168
+117            android:initOrder="100" />
+117-->[com.google.firebase:firebase-common:10.2.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\afcb3160bd45626da77f050a42debc58\jetified-firebase-common-10.2.1\AndroidManifest.xml:6:169-192
+118    </application>
+119
+120</manifest>

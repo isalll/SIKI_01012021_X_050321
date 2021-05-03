@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/list_item_bg"
+    android:descendantFocusability="blocksDescendants" >
+    
+    <RelativeLayout
+        android:id="@+id/layout_item"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/txt_per_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             />
+
+        <TextView
+            android:id="@+id/txt_per_nama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/txt_per_id"
+            android:textColor="@color/textclolor"
+            android:textColorHint="@color/textclolor"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txt_per_no_iui"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_per_nama"
+             />
+
+        <TextView
+            android:id="@+id/txt_per_tgl_iui"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_per_no_iui"
+             />
+
+        <TextView
+            android:id="@+id/txt_per_ten_ker_asing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_per_tgl_iui"
+            />
+        
+        <TextView
+            android:id="@+id/txt_per_ten_ker_dn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_per_ten_ker_asing"
+             />
+        
+        <TextView
+            android:id="@+id/txt_per_bdn_hkm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_per_ten_ker_dn"
+             />
+        
+        <TextView
+            android:id="@+id/txt_per_npwp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_per_bdn_hkm"
+             />
+ 
+       <TextView
+            android:id="@+id/txt_per_prod_utama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_per_npwp"
+             />
+        <TextView
+            android:id="@+id/txt_per_sektor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_per_prod_utama"
+             />
+        
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/layout_item"
+        android:background="@color/view_divider_color" />
+
+</RelativeLayout>
+

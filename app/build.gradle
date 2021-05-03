@@ -1,0 +1,69 @@
+apply plugin: 'com.android.application'
+
+android {
+    useLibrary 'org.apache.http.legacy'
+    signingConfigs {
+        config {
+            keyAlias 'irismobilekey'
+            keyPassword '606060'
+            storeFile file('../keystore.jks')
+            storePassword '606060'
+
+        }
+    }
+    compileSdkVersion 29
+    defaultConfig {
+        applicationId "com.siki.android"
+        minSdkVersion 19
+        targetSdkVersion 29
+        versionCode 2
+        versionName "2.0"
+        signingConfig signingConfigs.config
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.config
+        }
+    }
+    productFlavors {
+    }
+    sourceSets { main { assets.srcDirs = ['src/main/assets', 'src/main/assets/'] } }
+    buildToolsVersion '29.0.2'
+}
+
+dependencies {
+    //noinspection GradleCompatible
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.google.firebase:firebase-appindexing:10.2.1'
+    //compile 'com.github.PhilJay:MPAndroidChart:v3.0.3'
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.0.3'
+
+    //noinspection GradleCompatible
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'com.squareup.okhttp3:okhttp:3.8.1'
+    //noinspection GradleCompatible
+    implementation 'androidx.legacy:legacy-support-v13:1.0.0'
+    //noinspection GradleCompatible
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.mordred.wordcloud:Wordcloud:2.6'
+    implementation 'net.alhazmy13.wordcloud:library:0.2.0-beta'
+
+}
+
+allprojects {
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="chart_top_10_hs_negara_impor2" type="id" />
+    <item name="tv_title_chart17" type="id" />
+    <item name="chart_top_10_hs_negara_impor3" type="id" />
+    <item name="tv_title_chart18" type="id" />
+    <item name="chart_top_10_hs_negara_impor4" type="id" />
+    <item name="tv_title_chart19" type="id" />
+    <item name="chart_top_10_hs_negara_impor5" type="id" />
+    <item name="chart_top_10_hs_negara_impor6" type="id" />
+    <item name="chart_top_10_hs_negara_impor7" type="id" />
+    <item name="chart_top_10_hs_negara_impor8" type="id" />
+    <item name="tv_title_chart20" type="id" />
+    <item name="tv_title_chart21" type="id" />
+    <item name="tv_title_chart22" type="id" />
+    <item name="tv_title_chart23" type="id" />
+    <item name="chart_top_10_hs_negara_ekspor" type="id" />
+    <item name="chart_top_10_hs_negara_ekspor1" type="id" />
+    <item name="chart_top_10_hs_negara_ekspor2" type="id" />
+    <item name="chart_top_10_hs_negara_ekspor3" type="id" />
+    <item name="chart_top_10_hs_negara_ekspor4" type="id" />
+    <item name="chart_top_10_hs_negara_ekspor5" type="id" />
+    <item name="chart_top_10_hs_negara_ekspor6" type="id" />
+    <item name="chart_top_10_hs_negara_ekspor7" type="id" />
+    <item name="chart_top_10_hs_negara_ekspor8" type="id" />
+</resources>

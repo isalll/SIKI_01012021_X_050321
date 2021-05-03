@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mordred.wordcloud:Wordcloud:2.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/98a372548ffc6235ddd78422117bef95/jetified-Wordcloud-2.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/98a372548ffc6235ddd78422117bef95/jetified-Wordcloud-2.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/98a372548ffc6235ddd78422117bef95/jetified-Wordcloud-2.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mordred.wordcloud/Wordcloud/2.6/ee8c8a0cfe8d4136a029a3ef90e3746267ec374b/Wordcloud-2.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mordred.wordcloud/Wordcloud/2.6/1f1bffb97766113554991ceebaca2536d7a647b2/Wordcloud-2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,35 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/layout_title_bar"
+        android:id="@+id/include4" />
+
+    <ImageView
+        android:src="@drawable/arrows_back_icon"
+        android:layout_width="60dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="3dp"
+        android:layout_height="45dp"
+        android:id="@+id/back"
+        android:onClick="kembali"
+        android:layout_toRightOf="@+id/kode_berita"
+        android:layout_toEndOf="@+id/kode_berita" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/include4"
+        android:padding="8dp"
+        android:orientation="vertical">
+
+
+        <ListView
+            android:id="@+id/list_view"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"/>
+    </LinearLayout>
+
+</RelativeLayout>

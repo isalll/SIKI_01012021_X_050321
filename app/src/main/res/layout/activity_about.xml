@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_about"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logo_iris_small"
+    android:orientation="vertical" >
+
+    <include
+        layout="@layout/layout_title_bar"
+        android:background="@color/head_title" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/bg_title" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/bg_title"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center|right"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.86"
+                    android:text="SIKI Mobile Apps Ver. 2.0.0"
+                    android:textColor="#606060"
+                    android:textSize="18sp" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:background="@drawable/logo_iris_small" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="250dp" >
+
+                <RelativeLayout
+                    android:layout_width="10dp"
+                    android:layout_height="240dp"
+                    android:layout_weight="1"
+                    android:background="@color/bg_title" >
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/processbar1_bg"
+                        android:gravity="center_horizontal|bottom"
+                        android:paddingBottom="25dp"
+                        android:text="SIKI Mobile Aps merupakan aplikasi berbasis Bigdata Analytics menggunakan platform ekosistem hadoop. Diperuntukkan para stakeholder atau pelaku industri untuk memantau lonjakan impor dari negara lain serta berbagai fitur analisis lain yang dapat berguna bagi pengguna. Aplikasi ini merupakan tool pendukung bagian dari SIINAS yang dikelola oleh Ditjen KPAII (2016-2020)"
+                        android:textColor="#606060"
+                        android:textSize="16sp" />
+
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.slidingpanelayout.widget.SlidingPaneLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sliding_pane_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/head_title" >
+
+    <!-- Menu Lateral -->
+
+    <LinearLayout
+        android:layout_width="180dp"
+        android:layout_height="fill_parent"
+        android:background="@drawable/bg_linearlayout" >
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/head_title"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/head_title"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" >
+
+				<Button
+				    android:id="@+id/btnMenuUser"
+				    android:layout_width="match_parent"
+				    android:layout_height="100dp"
+				    android:background="@drawable/bg_select"
+				    android:drawableTop="@drawable/sl_bt_dashboard"
+				    android:onClick="onUser"
+				    android:paddingBottom="20dp"
+				    android:paddingTop="20dp"
+				    android:text="User"
+				    android:textColor="#ffffff"
+				    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/txtUser"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:visibility="gone" />
+                
+                <Button
+                    android:id="@+id/btnMenuDashboard"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_dashboard"
+                    android:paddingBottom="10dp"
+                    android:paddingTop="10dp"
+                    android:text="Dashboard"
+                    android:textColor="#ffffff" 
+                    android:onClick="onDashBoard"/>
+
+                <TextView
+                    android:id="@+id/textViewUser"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <Button
+                    android:id="@+id/btnMenuLonjakan"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_lonjakan"
+                    android:onClick="onLonjakan"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                    android:text="Top 5 Lonjakan"
+                    android:textColor="#ffffff" />
+
+                <TextView
+                    android:id="@+id/textViewLonjakan"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <Button
+                    android:id="@+id/btnMenuKliping"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_kliping"
+                    android:onClick="onKliping"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                    android:text="Kliping Industri"
+                    android:textColor="#ffffff" />
+
+                <TextView
+                    android:id="@+id/textViewKliping"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <Button
+                    android:id="@+id/btnMenuPD"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_kliping"
+                    android:onClick="onEWS"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                    android:text="Peringatan Dini"
+                    android:textColor="#ffffff" />
+
+
+                <TextView
+                    android:id="@+id/textViewPD"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <Button
+                    android:id="@+id/btnMenuRCA"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_kliping"
+                    android:onClick="onRCA"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                    android:text="Daya Saing"
+                    android:textColor="#ffffff" />
+
+
+                <TextView
+                    android:id="@+id/textViewRCA"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <Button
+                    android:id="@+id/btnMenuMediaAnalisis"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_carihs"
+                    android:onClick="onMediaAnalisis"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                    android:text="Analisis Media"
+                    android:textColor="#ffffff" />
+
+                <TextView
+                    android:id="@+id/textViewMediaAnalisis"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+
+                <Button
+                    android:id="@+id/btnMenuHSLink"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_carihs"
+                    android:onClick="onHSLink"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                    android:text="HS Link"
+                    android:textColor="#ffffff" />
+
+                <TextView
+                    android:id="@+id/textViewHSLink"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <Button
+                    android:id="@+id/btnMenuFindHS"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_carihs"
+                    android:onClick="onFindHS"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                    android:text="Cari HS"
+                    android:textColor="#ffffff" />
+
+                <TextView
+                    android:id="@+id/textViewFindHS"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <Button
+                    android:id="@+id/btnMenuFindNegara"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_carihs"
+                    android:onClick="onFindNegara"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                    android:text="Country Analysis"
+                    android:textColor="#ffffff" />
+
+                <TextView
+                    android:id="@+id/textViewFindNegara"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <Button
+                    android:id="@+id/btnMenuPerusahaan"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_perusahaan"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                    android:onClick="onPerusahaan"
+                    android:text="Perusahaan"
+                    android:textColor="#ffffff" />
+                    android:v
+
+                <TextView
+                    android:id="@+id/textViewPerusahaan"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <Button
+                    android:id="@+id/btnMenuAbout"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/button_bg_shap2"
+                    android:onClick="onAbout"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                    android:text="Tentang SIKI"
+                    android:textColor="#ffffff" />
+
+                <TextView
+                    android:id="@+id/textViewAbout"
+                    android:layout_width="125dp"
+                    android:layout_height="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_title"
+                    android:gravity="center_horizontal"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+
+                <Button
+                    android:id="@+id/btnMenuLogout"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/bg_select"
+                    android:drawableTop="@drawable/sl_bt_logout"
+                    android:paddingBottom="20dp"
+                    android:paddingTop="20dp"
+                 	android:onClick="onLogout"
+                    android:text="Logout"
+                    android:textColor="#ffffff" />
+
+
+                
+                </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_frame"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/head_title" >
+
+    </RelativeLayout>
+
+</androidx.slidingpanelayout.widget.SlidingPaneLayout>

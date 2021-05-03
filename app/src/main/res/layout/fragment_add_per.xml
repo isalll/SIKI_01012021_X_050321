@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp" >
+
+        <EditText
+            android:id="@+id/etxt_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/name"
+            android:nextFocusDown="@+id/etxt_noiui"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/etxt_noiui"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etxt_name"
+            android:ems="10"
+            android:hint="@string/no_iui"
+            android:nextFocusDown="@+id/etxt_tgliui"
+            android:singleLine="true" />
+        
+        <EditText
+            android:id="@+id/etxt_tgliui"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etxt_noiui"
+            android:hint="@string/tgl_iui"
+            android:nextFocusDown="@+id/etxt_tenakerasing"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/etxt_tenakerasing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etxt_tgliui"
+            android:hint="@string/tenakerasing"
+            android:singleLine="true" />
+        <EditText
+            android:id="@+id/etxt_tenakerdn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etxt_tenakerasing"
+            android:hint="@string/tenakerdn"
+            android:singleLine="true" />
+        <EditText
+            android:id="@+id/etxt_kdbdnhkm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etxt_tenakerdn"
+            android:hint="@string/kdbdnhkm"
+            android:singleLine="true" />
+         <EditText
+            android:id="@+id/etxt_npwp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etxt_kdbdnhkm"
+            android:hint="@string/npwp"
+            android:singleLine="true" />
+         <EditText
+            android:id="@+id/etxt_produtama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etxt_npwp"
+            android:hint="@string/produtama"
+            android:singleLine="true" />
+          <EditText
+            android:id="@+id/etxt_sektor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etxt_produtama"
+            android:hint="@string/sektor"
+            android:singleLine="true" />
+          
+        <LinearLayout
+            android:id="@+id/layout_submit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etxt_sektor"
+            android:layout_margin="5dp"
+            android:orientation="horizontal"
+            android:weightSum="2" >
+
+            <Button
+                android:id="@+id/button_add"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/add" />
+
+            <Button
+                android:id="@+id/button_reset"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/reset" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDEDED" >
+    <include layout="@layout/layout_title_bar"
+        android:id="@+id/include2"/>
+    <LinearLayout
+        android:id="@+id/Linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/include2"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <EditText android:id="@+id/inputSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Cari Perusahaan..."
+            android:enabled="false"
+            android:layout_weight="1.02" />
+
+        <ImageView
+            android:src="@drawable/search_icon_2"
+            android:layout_width="55dp"
+            android:layout_height="42dp"
+            android:id="@+id/imageView" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list_per"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/transparent"
+        android:dividerHeight="10dp"
+        android:drawSelectorOnTop="true"
+        android:footerDividersEnabled="false"
+        android:padding="10dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:layout_below="@+id/Linear" />
+
+</RelativeLayout>

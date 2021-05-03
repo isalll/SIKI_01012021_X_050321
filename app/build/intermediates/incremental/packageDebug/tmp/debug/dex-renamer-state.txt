@@ -1,0 +1,4 @@
+#Mon May 03 22:13:04 ICT 2021
+base.0=C\:\\Users\\Home\\Downloads\\SIKI_01012021_X_TEST_API\\SIKI_01012021_X_050321\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

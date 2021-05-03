@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:weightSum="1">
+                <TextView
+                    android:text="KD_HS"
+                    android:layout_width="95dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="114dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/kode_id" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Sektor"
+                    android:layout_width="95dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="79dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/sektor" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Subsektor"
+                    android:layout_width="95dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"/>
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+                <TextView
+                    android:text="-"
+                    android:layout_width="79dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/subsektor" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="KD_komoditas"
+                    android:layout_width="95dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"/>
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+                <TextView
+                    android:text="-"
+                    android:layout_width="86dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/kd_komoditas" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="kd_bec"
+                    android:layout_width="95dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"/>
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+                <TextView
+                    android:text="-"
+                    android:layout_width="92dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/kd_bec" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Kd_kbli05"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="86dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/kd_kbli05" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Bea_masuk"
+                    android:layout_width="95dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="86dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/bea_masuk" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Sektor btki2012"
+                    android:layout_width="99dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/sektor_btki2012" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Kd_kbli09"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="86dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/kd_kbli09" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Id sni wajib"
+                    android:layout_width="95dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="86dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/id_sni_wajib" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="sni wajib ex"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="86dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/sni_wajib_ex" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Ditjen"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="86dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/ditjen" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Jasa Industri"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="86dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/jasa_industri" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Jasa industri2"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="86dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/jasa_industri2" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="tarif"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="239dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tarif" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Nama BEC"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/nama_bec" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Nama Komoditas"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/nama_komoditas" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Nama KBLI"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/nama_kbli" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Nama KBLI09"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/nama_kbli09" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Uraian"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/uraian" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:text="Uraian Indo"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:text=":"
+                    android:layout_width="10dp"
+                    android:layout_height="wrap_content"
+                    />
+
+                <TextView
+                    android:text="-"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/uraian_indo" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    />
+            </LinearLayout>
+            </LinearLayout>
+
+
+    </RelativeLayout>
+
+</ScrollView>

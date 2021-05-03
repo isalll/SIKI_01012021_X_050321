@@ -1,0 +1,702 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_grap.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\bg_grap.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_tab_text_selector.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\tab_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\anim_push_left_in.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_graph3.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_graph3.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_pda.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_pda.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_webchart.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\layout_webchart.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_visitors.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\visitors.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logout_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\logout_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_item_keywords.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\item_keywords.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_graph_perusahaan.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_graph_perusahaan.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_news.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_find.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_find.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_kliping_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\kliping_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_berita.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\berita.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sites_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\sites_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg_select.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\bg_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_add_per.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_add_per.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item_komen.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\list_item_komen.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_lonjakan.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_lonjakan.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_pd.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_pd.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_detail_graph.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_detail_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_tab.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_main_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_news.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_ews_hs_detail.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_ews_hs_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_pd_hs.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_pd_hs.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_old.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_old.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo_small.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\logo_small.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_tab_text_selector.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\tab_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_in_message_bg.9.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\in_message_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_ewsa.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_ewsa.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_linearlayout.9.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\bg_linearlayout.9.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_hslink_hs_detail.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_hslink_hs_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_home_icon.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_bt_left.9.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\bg_bt_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_hslink.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_hslink.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_tab_bg_selector.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\tab_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_item_rcahs.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\item_rcahs.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_tab_bg_selector.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\tab_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_pd.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_pd.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sites.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\sites.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_pda.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_pda.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_about.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_chart_test.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_chart_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_pd_chart.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_pd_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_rca.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_rca.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_progress_wheel_activity.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\progress_wheel_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_item_rca.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\item_rca.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_bubblechart.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_bubblechart.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_find_hs.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\find_hs.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_processbar3_bg.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\processbar3_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_ews_chart.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_ews_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_list_comment.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_list_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_bt_left_old.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\bg_bt_left_old.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_search.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_carihs_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\carihs_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_char.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\img_char.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_tab_bg_unselected.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\tab_bg_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_dasboard.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\dasboard.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_carinegara.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_carinegara.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_topbar_shape3.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\topbar_shape3.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_item_pd.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\item_pd.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_graph.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_lonjakan.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_lonjakan.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_processbar1_bg.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\processbar1_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_pencarian_perusahaan.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_pencarian_perusahaan.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_comment_berita.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\comment_berita.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_bg_shap2.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\button_bg_shap2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_item_ews.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\item_ews.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logo_iris_small_old.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\logo_iris_small_old.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_perusahaan.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\perusahaan.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_photos_default.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\photos_default.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_sites.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_sites.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tentang.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\tentang.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_tab_selected.9.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_processbar.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\processbar.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_tabs_graph.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\tabs_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_perusahaan.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_perusahaan.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_rca_hs_detail.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_rca_hs_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dashboardcoorporate.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_dashboardcoorporate.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_out_message_bg.9.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\out_message_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_per_list.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_per_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_kliping.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\kliping.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_search_icon_2.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\search_icon_2.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcherx.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\ic_launcherx.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_visitors.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_visitors.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_search_view.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_topbar_shape2_on.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\topbar_shape2_on.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_topbar_shape2.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\topbar_shape2.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_tab_unselected.9.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\bg_tab_unselected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_chart_hs.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_chart_hs.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_visitors_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\visitors_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_ews.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_ews.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_kliping.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_kliping.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_dashboard.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_title_bar.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\layout_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_rca.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_rca.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_item_hslinkhs.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\item_hslinkhs.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sources.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\sources.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_kliping.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_kliping.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_lonjakan.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\lonjakan.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_chart_fragment.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_chart_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_tabs_graph2.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\tabs_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_pd_hs_detail.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_pd_hs_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_ews_hs.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_ews_hs.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_friends_default.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\friends_default.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dashboard_old.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_dashboard_old.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_backgeound.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\backgeound.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_circular_progress_bar.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_topbar_shape1.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\topbar_shape1.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_item_ewshs.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\item_ewshs.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_new_dashboard.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_new_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_item_one.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\item_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_ews_chart.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_ews_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_bt.9.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\bg_bt.9.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_berita_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\berita_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_company.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\company.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_berita.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_berita.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_pda.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\menu\\menu_pda.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_topbar_bg_textview.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\topbar_bg_textview.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_news_feed_default.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\news_feed_default.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_logout.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logout.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_find_negara.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_find_negara.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_tentang_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\tentang_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_register.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_cari_hs.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\fragment_cari_hs.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_sources.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_sources.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_lonjakan_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\lonjakan_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logo_iris_small.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\logo_iris_small.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_komentar_perberita.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_komentar_perberita.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_sl_bt_carihs.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\sl_bt_carihs.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_topbar_shape3_on.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\topbar_shape3_on.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_pd_chart.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_pd_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_rcaa.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_rcaa.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_about.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_media.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_list_kliping_comment.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_list_kliping_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_ews.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_ews.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable_tab_bg_unselected.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable\\tab_bg_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_hslinka.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_hslinka.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item_komen_kliping.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\list_item_komen_kliping.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_tabs_bg.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\tabs_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_carinegara.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\carinegara.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_item_pdhs.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\item_pdhs.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sources_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\sources_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_chart_fragment_mpchart.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_chart_fragment_mpchart.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_processbar2_bg.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\processbar2_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_source.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_source.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_visitor.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_visitor.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_processbar4_bg.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\processbar4_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_perusahaan_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\perusahaan_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_carinegara_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\carinegara_select.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_perusahaan.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\activity_perusahaan.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_carihs.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\carihs.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_topbar_shape3_old.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\topbar_shape3_old.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\anim_push_left_out.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_item_hslink.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\item_hslink.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\layout_login.xml.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_arrows_back_icon.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\arrows_back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_dasboard_select.png.flat",
+        "source": "C:\\Users\\USER\\Documents\\SIKI_01012021_X\\app\\src\\main\\res\\drawable-hdpi\\dasboard_select.png"
+    }
+]

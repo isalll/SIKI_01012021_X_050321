@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/head_title" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <ImageView android:src="@drawable/logo"
+            android:layout_width="wrap_content"
+            android:layout_height="72dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="40dip"
+            android:layout_gravity="center_horizontal" />
+
+
+		<!--  Email Label -->
+        <Button
+            android:id="@+id/btnEarlyWarningSystem"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dip"
+            android:background="@null"
+            android:text="- Bigdata Analytics, EWS, RCA -"
+            android:textColor="@color/bg_title" />
+
+		<!--  Email TextField -->
+        <EditText
+            android:id="@+id/loginUser"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Username, NIP or email"
+            android:layout_marginTop="20dip"
+            android:textSize="14sp" />
+        
+		<!--  Password TextField -->
+        <EditText
+            android:id="@+id/loginPassword"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:password="true"
+            android:layout_marginTop="5dip"
+            android:hint="Password"
+            android:textSize="14sp" />
+        
+        <!--  Error message -->
+        <TextView android:id="@+id/login_error"
+            		android:layout_width="fill_parent"
+            		android:layout_height="wrap_content"
+            		android:textColor="#e30000"
+            		android:padding="10dip"
+            		android:textStyle="bold"/>
+
+		<!--  Login Button -->        
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dip"
+            android:text="Login" />
+
+        <!--  Link to Registration Screen -->
+        <Button
+            android:id="@+id/btnLinkToRegisterScreen"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dip"
+            android:background="@null"
+            android:text="I don&apos;t have account. Register Me!"
+            android:textColor="#21dbd4"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,215 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.siki.android"
+4    android:versionCode="2"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:7:5-67
+11-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:8:5-79
+12-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:8:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:9:5-81
+13-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:9:22-78
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:10:5-75
+14-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:10:22-72
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:11:5-80
+15-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:11:22-77
+16
+17    <application
+17-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:13:5-104:19
+18        android:allowBackup="true"
+18-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:14:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.0.0] C:\Users\Home\.gradle\caches\transforms-2\files-2.1\2b7c43aab63a19fe7e7008cae3e47596\core-1.0.0\AndroidManifest.xml:22:18-86
+20        android:debuggable="true"
+21        android:icon="@drawable/ic_launcherx"
+21-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:15:9-46
+22        android:label="@string/app_name"
+22-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:16:9-41
+23        android:testOnly="true"
+24        android:theme="@android:style/Theme.NoTitleBar" >
+24-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:17:9-56
+25        <activity
+25-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:18:9-30:20
+26            android:name="com.siki.android.MainActivity"
+26-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:19:13-41
+27            android:label="@string/app_name"
+27-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:20:13-45
+28            android:screenOrientation="portrait" >
+28-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:21:13-49
+29
+30            <!--
+31            <intent-filter>
+32                <action android:name="android.intent.action.MAIN" />
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+35            </intent-filter>
+36            -->
+37        </activity>
+38        <activity
+38-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:31:9-39:20
+39            android:name="com.siki.android.LoginActivity"
+39-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:32:13-42
+40            android:label="@string/app_name" >
+40-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:33:13-45
+41            <intent-filter>
+41-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:34:13-38:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:35:17-69
+42-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:35:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:37:17-77
+44-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:37:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <!-- Register Activity -->
+49        <activity
+49-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:42:9-45:52
+50            android:name="com.siki.android.RegistrasiActivity"
+50-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:43:13-47
+51            android:label="@string/app_name"
+51-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:44:13-45
+52            android:screenOrientation="portrait" />
+52-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:45:13-49
+53        <!--
+54 ATTENTION: This was auto-generated to add Google Play services to your project for
+55     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+56        -->
+57        <meta-data
+57-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:50:9-52:69
+58            android:name="com.google.android.gms.version"
+58-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:51:13-58
+59            android:value="@integer/google_play_services_version" />
+59-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:52:13-66
+60
+61        <activity
+61-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:54:9-56:67
+62            android:name="com.siki.android.ListCommentActivity"
+62-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:55:13-48
+63            android:label="@string/title_activity_list_comment" />
+63-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:56:13-64
+64        <activity
+64-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:57:9-59:58
+65            android:name="com.siki.android.ListCommentKlipingActivity"
+65-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:58:13-55
+66            android:label="ListCommentKlipingActivity" />
+66-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:59:13-55
+67        <activity
+67-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:60:9-63:72
+68            android:name="com.siki.android.PdHsActivity"
+68-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:61:13-41
+69            android:label="@string/title_activity_pda"
+69-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:62:13-55
+70            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+70-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:63:13-69
+71        <activity
+71-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:64:9-66:72
+72            android:name="com.siki.android.PdActivity"
+72-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:65:13-39
+73            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+73-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:66:13-69
+74        <activity
+74-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:67:9-69:72
+75            android:name="com.siki.android.PdChartActivity"
+75-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:68:13-44
+76            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+76-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:69:13-69
+77        <activity
+77-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:70:9-71:81
+78            android:name="com.siki.android.PdHsDetailActivity"
+78-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:70:19-53
+79            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+79-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:71:13-69
+80        <activity
+80-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:73:9-76:72
+81            android:name="com.siki.android.EWSHsActivity"
+81-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:74:13-42
+82            android:label="@string/title_activity_pda"
+82-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:75:13-55
+83            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+83-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:76:13-69
+84        <activity
+84-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:77:9-79:72
+85            android:name="com.siki.android.EWSActivity"
+85-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:78:13-40
+86            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+86-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:79:13-69
+87        <activity
+87-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:80:9-82:72
+88            android:name="com.siki.android.RCAActivity"
+88-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:81:13-40
+89            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+89-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:82:13-69
+90        <activity
+90-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:83:9-85:72
+91            android:name="com.siki.android.RCAHsActivity"
+91-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:84:13-42
+92            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+92-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:85:13-69
+93        <activity
+93-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:86:9-88:72
+94            android:name="com.siki.android.RCAHsDetailActivity"
+94-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:87:13-48
+95            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+95-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:88:13-69
+96        <activity
+96-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:90:9-92:72
+97            android:name="com.siki.android.EWSChartActivity"
+97-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:91:13-45
+98            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+98-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:92:13-69
+99        <activity
+99-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:93:9-94:81
+100            android:name="com.siki.android.EWSHsDetailActivity"
+100-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:93:19-54
+101            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+101-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:94:13-69
+102        <activity
+102-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:95:9-96:81
+103            android:name="com.siki.android.HSLinkDetailActivity"
+103-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:95:19-55
+104            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+104-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:96:13-69
+105
+106        <uses-library
+106-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:98:9-87
+107            android:name="org.apache.http.legacy"
+107-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:98:23-60
+108            android:required="false" />
+108-->C:\Users\Home\Downloads\SIKI_01012021_X_TEST_API\SIKI_01012021_X_050321\app\src\main\AndroidManifest.xml:98:61-85
+109
+110        <activity
+110-->[com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-2\files-2.1\ab97999cb7fa798c70b5fce9facd4e4e\jetified-play-services-base-10.2.1\AndroidManifest.xml:19:9-172
+111            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+111-->[com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-2\files-2.1\ab97999cb7fa798c70b5fce9facd4e4e\jetified-play-services-base-10.2.1\AndroidManifest.xml:19:19-85
+112            android:exported="false"
+112-->[com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-2\files-2.1\ab97999cb7fa798c70b5fce9facd4e4e\jetified-play-services-base-10.2.1\AndroidManifest.xml:19:146-170
+113            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+113-->[com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-2\files-2.1\ab97999cb7fa798c70b5fce9facd4e4e\jetified-play-services-base-10.2.1\AndroidManifest.xml:19:86-145
+114
+115        <provider
+115-->[com.google.firebase:firebase-common:10.2.1] C:\Users\Home\.gradle\caches\transforms-2\files-2.1\cdf42eafb6892bcf841bd8de8e8d5f88\jetified-firebase-common-10.2.1\AndroidManifest.xml:6:9-194
+116            android:name="com.google.firebase.provider.FirebaseInitProvider"
+116-->[com.google.firebase:firebase-common:10.2.1] C:\Users\Home\.gradle\caches\transforms-2\files-2.1\cdf42eafb6892bcf841bd8de8e8d5f88\jetified-firebase-common-10.2.1\AndroidManifest.xml:6:79-143
+117            android:authorities="com.siki.android.firebaseinitprovider"
+117-->[com.google.firebase:firebase-common:10.2.1] C:\Users\Home\.gradle\caches\transforms-2\files-2.1\cdf42eafb6892bcf841bd8de8e8d5f88\jetified-firebase-common-10.2.1\AndroidManifest.xml:6:19-78
+118            android:exported="false"
+118-->[com.google.firebase:firebase-common:10.2.1] C:\Users\Home\.gradle\caches\transforms-2\files-2.1\cdf42eafb6892bcf841bd8de8e8d5f88\jetified-firebase-common-10.2.1\AndroidManifest.xml:6:144-168
+119            android:initOrder="100" />
+119-->[com.google.firebase:firebase-common:10.2.1] C:\Users\Home\.gradle\caches\transforms-2\files-2.1\cdf42eafb6892bcf841bd8de8e8d5f88\jetified-firebase-common-10.2.1\AndroidManifest.xml:6:169-192
+120    </application>
+121
+122</manifest>
